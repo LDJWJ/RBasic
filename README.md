@@ -2,8 +2,8 @@
 R Basic, R Textmining, R data 처리, R기본 통계
 
 ## R Basics
-* [00. R 설치 & RStudio설치_pdf](00_R설치_RStdio 설치하기.pdf)
-* [01. R 소개](RBasic01_withR.ipynb)[pdf](.pdf/01_RBasic01_withR.pdf)
+* [00. R 설치 & RStudio설치][pdf](00_R설치_RStdio 설치하기.pdf)
+* [01. R 소개](RBasic01_withR.ipynb)[pdf](./pdf/01_RBasic01_withR.pdf)
 * [02. R 변수 및 기본 설정](RBasic02_var_vector_withR.ipynb)[pdf]
 * [03. R 데이터 다루기(1)](RBasic03_data_withR.ipynb)[pdf]
 * [04. R 데이터 다루기(2)](RBasic04_data_dplyr_withR.ipynb)[pdf]
