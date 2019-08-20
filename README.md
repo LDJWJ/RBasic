@@ -13,9 +13,9 @@ R Basic, R Textmining, R data 처리, R기본 통계
 * [07. R 데이터 시각화(2)][[ipynb]](./RBasic_Source/RBasic07_dataVis02_withR.ipynb)[[pdf]](./pdf/07_RBasic07_dataVis02_withR.pdf)
 
 ## R Project
-* [01. 설문조사 데이터 분석(1)][[ipynb]](RProject01A_dplyr_withdoit_v11.ipynb) [[pdf]](RProject01A_dplyr_withdoit_v11_1908.pdf)
-* [02. 설문조사 데이터 분석(2)][[ipynb]](RProject01B_dplyr_ggplot_withdoit.ipynb) [[pdf]](RProject01B_dplyr_ggplot_withdoit.pdf)
-* [03. 설문조사 데이터 분석(3)][[ipynb]](RProject01C_dplyr_ggplot_withdoit.ipynb) [[pdf]](RProject01C_dplyr_ggplot_withdoit.pdf)
+* [01. 공공 데이터 분석(1)][[ipynb]](RProject01A_dplyr_withdoit_v11.ipynb) [[pdf]](RProject01A_dplyr_withdoit_v11_1908.pdf)
+* [02. 공공 데이터 분석(2)][[ipynb]](RProject01B_dplyr_ggplot_withdoit.ipynb) [[pdf]](RProject01B_dplyr_ggplot_withdoit.pdf)
+* [03. 공공 데이터 분석(3)][[ipynb]](RProject01C_dplyr_ggplot_withdoit.ipynb) [[pdf]](RProject01C_dplyr_ggplot_withdoit.pdf)
 
 
 <h3> 개발환경 </h3>
