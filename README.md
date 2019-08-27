@@ -11,11 +11,21 @@ R Basic, R Textmining, R data 처리, R기본 통계
 * [05. R dplyr를 이용한 데이터 처리][[ipynb]](./RBasic_Source/RBasic05_dplyr_withR.ipynb)[[pdf]](./pdf/05_RBasic05_dplyr_withR.pdf)
 * [06. R 데이터 시각화(1)][[ipynb]](./RBasic_Source/RBasic06_dataVis01_withR.ipynb)[[pdf]](./pdf/06_RBasic06_dataVis01_withR.pdf)
 * [07. R 데이터 시각화(2)][[ipynb]](./RBasic_Source/RBasic07_dataVis02_withR.ipynb)[[pdf]](./pdf/07_RBasic07_dataVis02_withR.pdf)
+* [08. R 기본 정리][[ipynb]](./RLevelUp_Source/RBasic08_Basic_withR.ipynb)[[pdf]](./pdf/08_RBasic08_Basic_withR.pdf)
 
 ## R Project
 * [01. 공공 데이터 분석(1)][[ipynb]](RProject01A_dplyr_withdoit_v11.ipynb) [[pdf]](RProject01A_dplyr_withdoit_v11_1908.pdf)
 * [02. 공공 데이터 분석(2)][[ipynb]](RProject01B_dplyr_ggplot_withdoit.ipynb) [[pdf]](RProject01B_dplyr_ggplot_withdoit.pdf)
 * [03. 공공 데이터 분석(3)][[ipynb]](RProject01C_dplyr_ggplot_withdoit.ipynb) [[pdf]](RProject01C_dplyr_ggplot_withdoit.pdf)
+
+## R LevelUp
+* [01. 결측치,이상치 처리][[ipynb]](./RLevelUp_Source/) [[pdf]](./pdf/RLevelUp01_Data_MissingVal.pdf)
+* [02. 텍스트마이닝 입문][[ipynb]](./RLevelUp_Source/) [[pdf]](./pdf/RLevelUp02_TextMining.pdf)
+* [03. R markdown 시작1,2][[시작 1 md]](./RLevelUp_Source/RLevelUp03_practice.md) [[시작 2 md]](./RLevelUp_Source/RLevelUp04_practice.md)
+
+* [05. 데이터 시각화(지도)][[ipynb]](./RLevelUp_Source/RLevelUp05_DataVis_1908_v10.md) [[pdf]](./pdf/RLevelUp05_DataVis.pdf)
+* [06. 데이터 시각화(Plotly)][[ipynb]](./RLevelUp_Source/RLevelUp06_Plotly.ipynb) [[pdf]](./pdf/RLevelUp06_Plotly.pdf)
+* [07. 통계시작하기)][[ipynb]](./RLevelUp_Source/RLevelUp07_Stat.ipynb) [[pdf]](./pdf/RLevelUp07_Stat.pdf)
 
 
 <h3> 개발환경 </h3>
