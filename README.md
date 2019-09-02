@@ -28,7 +28,7 @@ R Basic, R Textmining, R data 처리, R기본 통계
 * [07. 통계시작하기)][[ipynb]](./RLevelUp_Source/RLevelUp07_Stat.ipynb) [[pdf]](./pdf/RLevelUp07_Stat.pdf)
 
 
-<h3> 개발환경 </h3>
+## 개발환경
 
 <h3> R </h3>
 [Download](https://cran.r-project.org/bin/windows/base/)
