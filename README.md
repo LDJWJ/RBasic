@@ -28,8 +28,8 @@ R Basic, R Textmining, R data 처리, R기본 통계
 * [07. 통계시작하기)][[ipynb]](./RLevelUp_Source/RLevelUp07_Stat.ipynb) [[pdf]](./pdf/RLevelUp07_Stat.pdf)
 
 ## R 통계기반 데이터 분석
-* [01. 통계기본이해하기][[md]]() [[pdf]](./pdf/Stat01_01_Basic_Summary_180928.pdf)
-* [02. 가설검정이해][[md]]() [[pdf]](./pdf/Stat01_02_가설검정예.pdf)
+* [01. 통계기본이해하기][[md]] [[pdf]](./pdf/Stat01_01_Basic_Summary_180928.pdf)
+* [02. 가설검정이해][[md]] [[pdf]](./pdf/Stat01_02_가설검정예.pdf)
 * [03. 가설검정실습][[rmd]](./R_STAT_ANALYSIS/R_ML_STAT_01.rmd) [[md]](./pdf/R_ML_STAT_01.md)
 
 ## 개발환경
