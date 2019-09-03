@@ -44,10 +44,10 @@ R Basic, R Textmining, R data 처리, R기본 통계
 * [13. 모델_주성분분석]
 * [14. 모델_군집]
 
-## R LevelUp
+## R 활용 LevelUp
 * [14. shiny 소개]
 * [15. RMySql]
-* [16. Titanic대회]
+* [16. R_시각화]
 
 ## 개발환경
 
