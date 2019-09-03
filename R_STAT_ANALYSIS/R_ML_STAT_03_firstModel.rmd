@@ -1,5 +1,5 @@
 ---
-title: "R_ML_STAT_02_모델만들기"
+title: "R_ML_STAT_03_모델만들기"
 output: html_document
 ---
 
