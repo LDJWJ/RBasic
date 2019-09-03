@@ -30,8 +30,8 @@ R Basic, R Textmining, R data 처리, R기본 통계
 ## R 통계기반 데이터 분석
 * [01. 통계기본이해하기][[md]] [[pdf]](./pdf/Stat01_01_Basic_Summary_180928.pdf)
 * [02. 가설검정이해][[md]] [[pdf]](./pdf/Stat01_02_가설검정예.pdf)
-* [03. 가설검정실습][[rmd]](./R_STAT_ANALYSIS/R_ML_STAT_01.rmd) [[md]](./pdf/R_ML_STAT_01.md)
-* [04. 모델만들어보기][[rmd]](./R_STAT_ANALYSIS/R_ML_STAT_02.rmd) [[md]](./pdf/R_ML_STAT_02.md)
+* [03. 가설검정실습] [[md]](./R_STAT_ANALYSIS/R_ML_STAT_01.md) [[pdf]](./pdf/R_ML_STAT_01.pdf) 
+* [04. 모델만들어보기][[md]](./R_STAT_ANALYSIS/R_ML_STAT_02_logit_model.md) [[pdf]](./pdf/R_ML_STAT_02_model.pdf) 
 
 ## 개발환경
 
