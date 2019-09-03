@@ -32,8 +32,21 @@ R Basic, R Textmining, R data 처리, R기본 통계
 * [02. 가설검정이해][[md]] [[pdf]](./pdf/Stat01_02_가설검정예.pdf)
 * [03. 가설검정실습] [[md]](./R_STAT_ANALYSIS/R_ML_STAT_01.md) [[pdf]](./pdf/R_ML_STAT_01.pdf) 
 * [04. 머신러닝기본개념이해][[md]] [[pdf]](./pdf/Stat01_03_ML_Basic.pdf)
-* [05. 머신러닝실습(1)][[md]](./R_STAT_ANALYSIS/R_ML_STAT_03_firstModel.md) [[pdf]](./pdf/R_ML_STAT_03_firstmodel.pdf)
+* [05. 머신러닝실습(1)-회귀모델][[md]](./R_STAT_ANALYSIS/R_ML_STAT_03_firstModel.md) [[pdf]](./pdf/R_ML_STAT_03_firstmodel.pdf)
 * [06. 모델만들어보기][[md]](./R_STAT_ANALYSIS/R_ML_STAT_02_logit_model.md) [[pdf]](./pdf/R_ML_STAT_02_model.pdf) 
+* [07. 타이타닉대회입문]
+* [08. 통계_상관분석]
+* [09. 통계_상관분석실습]
+* [10. 모델평가_데이터마이닝]
+* [11. 모델_로지스틱회귀]
+* [12. 모델_인공신경망]
+* [13. 모델_주성분분석]
+* [14. 모델_군집]
+
+## R LevelUp
+* [14. shiny 소개]
+* [15. RMySql]
+* [16. Titanic대회]
 
 ## 개발환경
 
