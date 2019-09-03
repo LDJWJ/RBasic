@@ -27,6 +27,9 @@ R Basic, R Textmining, R data 처리, R기본 통계
 * [05. 데이터 시각화(지도)][[ipynb]](./RLevelUp_Source/RLevelUp05_DataVis_1908_v10.md) [[pdf]](./pdf/RLevelUp05_DataVis.pdf)
 * [06. 데이터 시각화(Plotly)][[ipynb]](./RLevelUp_Source/RLevelUp06_Plotly.ipynb) [[pdf]](./pdf/RLevelUp06_Plotly.pdf)
 * [07. 통계시작하기)][[ipynb]](./RLevelUp_Source/RLevelUp07_Stat.ipynb) [[pdf]](./pdf/RLevelUp07_Stat.pdf)
+* [08. shiny 소개]
+* [09. RMySql]
+* [10. R_시각화]
 
 ## R 통계기반 데이터 분석
 * [01. 통계기본이해하기][[md]] [[pdf]](./pdf/Stat01_01_Basic_Summary_180928.pdf)
@@ -43,11 +46,6 @@ R Basic, R Textmining, R data 처리, R기본 통계
 * [12. 모델_인공신경망]
 * [13. 모델_주성분분석]
 * [14. 모델_군집]
-
-## R 활용 LevelUp
-* [14. shiny 소개]
-* [15. RMySql]
-* [16. R_시각화]
 
 ## 개발환경
 
