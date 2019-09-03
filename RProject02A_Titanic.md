@@ -1,7 +1,7 @@
 ---
 title: "R_ML_PROJECT01_Titanic"
 output: 
-  html_document: 
+   html_document:
     toc: true
     toc_depth: 3
     toc_float: true
@@ -14,6 +14,8 @@ library(ggplot2)
 ```
 
 ### 01 데이터 불러오기
+* na.strings : 해당되는 문자열을 NA로 처리
+* stringsAsFactors : 문자열을 팩터로 할 것인가?
 ```{r}
 train <-  read.csv("./R_Data/titanic_train.csv", stringsAsFactors=F, na.strings = c("", "NA"))
 test <- read.csv("./R_Data/titanic_test.csv", stringsAsFactors=F, na.strings = c("", "NA"))
