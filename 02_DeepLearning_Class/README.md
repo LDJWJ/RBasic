@@ -1,7 +1,5 @@
 # Machine Learning & Deep Learning
 
-## 학습목표
-
 
 <header>
     <h4>A</h4>
